@@ -1,0 +1,40 @@
+body {
+    font-family: 'Garamond' , serif;
+    color: #353945;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  header,
+  nav,
+  main,
+  footer {
+    margin: 1.25rem auto;
+    max-width: 760px;
+  }
+  
+  header,
+  footer {
+    background-color: #0c0c0c;
+    color: #f0f1f5;
+    text-align: center;
+  }
+  
+  header {
+    padding: .5rem;
+    font-size: 24px;
+  }
+  
+  footer {
+    background-color: #0c0c0c;
+    padding: 1.25rem;
+  }
+  
+  img {
+    float: right;
+    height: 300px;
+    
+  }
+  
+  a {
+    color: #353945;
+  }
